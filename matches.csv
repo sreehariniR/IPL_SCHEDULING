@@ -1,0 +1,71 @@
+MatchNo,Date,Time,HomeTeam,AwayTeam,Venue,HomeRuns,HomeOvers,AwayRuns,AwayOvers,Result
+1,23/10,07:30 PM,CSK,GT,M.A.Chidhambaram Stadium,220,20.0,230,20.0,GT Won
+2,24/10,07:30 PM,LSG,MI,Atal Bihari Vajpayee Stadium,200,20.0,219,20.0,MI Won
+3,25/10,03:30 PM,RCB,PBKS,M.Chinnaswamy Stadium,123,20.0,200,19.0,PBKS Won
+4,25/10,07:30 PM,RR,KKR,Sawai Mansingh Stadium,155,15.0,156,15.0,KKR Won
+5,26/10,03:30 PM,SRH,DC,Rajiv Gandhi Stadium,165,15.0,166,15.0,DC Won
+6,26/10,07:30 PM,GT,MI,Narendra Modi Stadium,189,18.0,188,19.0,GT Won
+7,27/10,07:30 PM,CSK,RCB,M.A.Chidhambaram Stadium,145,13.0,146,13.0,RCB Won
+8,28/10,07:30 PM,KKR,LSG,Eden Gardens,156,15.0,157,15.0,LSG Won
+9,29/10,07:30 PM,PBKS,SRH,PCA IS Bindra Stadium,146,12.0,147,13.0,SRH Won
+10,30/10,07:30 PM,DC,RR,Arun Jaitley Stadium,156,16.0,155,18.0,DC Won
+11,31/10,07:30 PM,RCB,GT,M.Chinnaswamy Stadium,145,13.0,146,19.0,GT Won
+12,01/11,03:30 PM,MI,KKR,Wankhede Stadium,155,12.0,156,14.0,KKR Won
+13,01/11,07:30 PM,SRH,CSK,Rajiv Gandhi Stadium,140,14.0,145,16.0,CSK Won
+14,02/11,03:30 PM,LSG,DC,Atal Bihari Vajpayee Stadium,150,15.0,155,15.0,DC Won
+15,02/11,07:30 PM,RR,PBKS,Sawai Mansingh Stadium,200,20.0,201,20.0,PBKS Won
+16,03/11,07:30 PM,GT,KKR,Narendra Modi Stadium,156,15.0,144,10.0,GT Won
+17,04/11,07:30 PM,RCB,SRH,M.Chinnaswamy Stadium,156,15.0,150,20.0,RCB Won
+18,05/11,07:30 PM,DC,MI,Arun Jaitley Stadium,166,16.0,165,15.0,DC Won
+19,06/11,07:30 PM,CSK,RR,M.A.Chidhambaram Stadium,200,20.0,201,20.0,RR Won
+20,07/11,07:30 PM,PBKS,LSG,PCA IS Bindra Stadium,220,20.0,221,20.0,LSG Won
+21,08/11,03:30 PM,SRH,GT,Rajiv Gandhi Stadium,154,15.0,156,15.0,GT Won
+22,08/11,07:30 PM,KKR,DC,Eden Gardens,160,16.0,165,16.0,DC Won
+23,09/11,03:30 PM,RR,RCB,Sawai Mansingh Stadium,146,14.0,100,13.0,RR Won
+24,09/11,07:30 PM,MI,PBKS,Wankhede Stadium,122,12.0,120,15.0,MI Won
+25,10/11,07:30 PM,LSG,CSK,Atal Bihari Vajpayee Stadium,165,16.0,166,16.0,CSK Won
+26,11/11,07:30 PM,GT,DC,Narendra Modi Stadium,155,15.0,150,15.0,GT Won
+27,12/11,07:30 PM,SRH,RR,Rajiv Gandhi Stadium,166,16.0,169,19.0,RR Won
+28,13/11,07:30 PM,PBKS,KKR,PCA IS Bindra Stadium,132,12.0,130,16.0,PBKS Won
+29,14/11,07:30 PM,RCB,LSG,M.Chinnaswamy Stadium,120,12.0,121,15.0,LSG Won
+30,15/11,03:30 PM,MI,CSK,Wankhede Stadium,222,20.0,222,20.0,Tie
+31,15/11,07:30 PM,RR,GT,Sawai Mansingh Stadium,152,15.0,153,15.0,GT Won
+32,16/11,03:30 PM,DC,PBKS,Arun Jaitley Stadium,163,12.0,165,12.0,PBKS Won
+33,16/11,07:30 PM,LSG,SRH,Atal Bihari Vajpayee Stadium,146,14.0,147,14.0,SRH Won
+34,17/11,07:30 PM,KKR,CSK,Eden Gardens,156,12.0,157,12.0,CSK Won
+35,18/11,07:30 PM,MI,RCB,Wankhede Stadium,95,9.0,98,12.0,RCB Won
+36,19/11,07:30 PM,GT,PBKS,Narendra Modi Stadium,153,16.0,156,16.0,PBKS Won
+37,20/11,07:30 PM,RR,LSG,Sawai Mansingh Stadium,155,16.0,156,18.0,LSG Won
+38,21/11,07:30 PM,CSK,DC,M.A.Chidhambaram Stadium,201,20.0,202,20.0,DC Won
+39,23/11,03:30 PM,SRH,MI,Rajiv Gandhi Stadium,223,20.0,222,20.0,SRH Won
+40,23/11,07:30 PM,KKR,RCB,Eden Gardens,123,15.0,115,16.0,KKR Won
+41,24/11,07:30 PM,LSG,GT,Atal Bihari Vajpayee Stadium,153,20.0,156,20.0,GT Won
+42,25/11,07:30 PM,PBKS,CSK,PCA IS Bindra Stadium,126,12.0,127,20.0,CSK Won
+43,26/11,07:30 PM,MI,RR,Wankhede Stadium,153,12.0,156,12.0,RR Won
+44,27/11,07:30 PM,DC,RCB,Arun Jaitley Stadium,199,20.0,199,20.0,Tie
+45,28/11,07:30 PM,KKR,SRH,Eden Gardens,156,12.0,156,12.0,Tie
+46,29/11,03:30 PM,DC,CSK,Arun Jaitley Stadium,122,2.0,123,12.0,CSK Won
+47,29/11,07:30 PM,RR,MI,Sawai Mansingh Stadium,155,20.0,156,20.0,MI Won
+48,30/11,03:30 PM,PBKS,RCB,PCA IS Bindra Stadium,146,14.0,145,20.0,PBKS Won
+49,30/11,07:30 PM,LSG,KKR,Atal Bihari Vajpayee Stadium,155,20.0,156,20.0,KKR Won
+50,01/12,07:30 PM,GT,SRH,Narendra Modi Stadium,145,14.0,146,16.0,SRH Won
+51,02/12,07:30 PM,RR,CSK,Sawai Mansingh Stadium,123,12.0,122,12.0,RR Won
+52,03/12,07:30 PM,PBKS,MI,PCA IS Bindra Stadium,153,20.0,163,20.0,MI Won
+53,04/12,07:30 PM,LSG,RCB,Atal Bihari Vajpayee Stadium,155,20.0,156,20.0,RCB Won
+54,05/12,07:30 PM,KKR,GT,Eden Gardens,200,20.0,201,20.0,GT Won
+55,06/12,03:30 PM,DC,SRH,Arun Jaitley Stadium,230,20.0,240,20.0,SRH Won
+56,06/12,07:30 PM,CSK,PBKS,M.A.Chidhambaram Stadium,156,20.0,154,20.0,CSK Won
+57,07/12,03:30 PM,MI,LSG,Wankhede Stadium,186,20.0,189,20.0,LSG Won
+58,07/12,07:30 PM,RCB,GT,M.Chinnaswamy Stadium,165,20.0,177,20.0,GT Won
+59,08/12,07:30 PM,DC,KKR,Arun Jaitley Stadium,123,12.0,122,12.0,DC Won
+60,09/12,07:30 PM,SRH,RR,Rajiv Gandhi Stadium,130,13.0,135,13.0,RR Won
+61,10/12,07:30 PM,CSK,LSG,M.A.Chidhambaram Stadium,160,16.0,165,16.0,LSG Won
+62,11/12,07:30 PM,GT,MI,Narendra Modi Stadium,152,15.0,153,16.0,MI Won
+63,12/12,07:30 PM,RCB,DC,M.Chinnaswamy Stadium,154,13.0,156,13.0,DC Won
+64,13/12,03:30 PM,KKR,RR,Eden Gardens,156,13.0,157,16.0,RR Won
+65,13/12,07:30 PM,SRH,PBKS,Rajiv Gandhi Stadium,200,20.0,201,20.0,PBKS Won
+66,14/12,03:30 PM,MI,DC,Wankhede Stadium,123,20.0,129,20.0,DC Won
+67,14/12,07:30 PM,RCB,RR,M.Chinnaswamy Stadium,199,20.0,198,20.0,RCB Won
+68,15/12,07:30 PM,PBKS,KKR,PCA IS Bindra Stadium,188,20.0,189,20.0,KKR Won
+69,16/12,07:30 PM,SRH,LSG,Rajiv Gandhi Stadium,156,15.0,154,16.0,SRH Won
+70,17/12,07:30 PM,GT,CSK,Narendra Modi Stadium,145,20.0,150,20.0,CSK Won

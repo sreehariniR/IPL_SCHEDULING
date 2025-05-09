@@ -1,0 +1,73 @@
+-------------------------------------------------------------------------------
+No  Team1  vs  Team2  Venue                                    Date       Time
+-------------------------------------------------------------------------------
+1   CSK    vs  GT     M. A. Chidambaram Stadium                23/08 07:30 PM       
+2   LSG    vs  MI     Atal Bihari Vajpayee Ekana               24/08 07:30 PM
+3   RCB    vs  PBKS   M. Chinnaswamy Stadium                   25/08 07:30 PM       
+4   RR     vs  KKR    Sawai Mansingh Stadium                   26/08 03:30 PM       
+5   SRH    vs  DC     Rajiv Gandhi International               26/08 07:30 PM
+6   GT     vs  MI     Narendra Modi Stadium                    27/08 03:30 PM       
+7   CSK    vs  RCB    M. A. Chidambaram Stadium                27/08 07:30 PM       
+8   KKR    vs  LSG    Eden Gardens                             28/08 07:30 PM       
+9   PBKS   vs  SRH    PCA IS Bindra Stadium                    29/08 07:30 PM
+10  DC     vs  RR     Arun Jaitley Stadium                     30/08 07:30 PM       
+11  RCB    vs  GT     M. Chinnaswamy Stadium                   31/08 07:30 PM       
+12  MI     vs  KKR    Wankhede Stadium                         01/09 07:30 PM       
+13  SRH    vs  CSK    Rajiv Gandhi International               02/09 03:30 PM
+14  LSG    vs  DC     Atal Bihari Vajpayee Ekana               02/09 07:30 PM       
+15  RR     vs  PBKS   Sawai Mansingh Stadium                   03/09 03:30 PM
+16  GT     vs  KKR    Narendra Modi Stadium                    03/09 07:30 PM       
+17  RCB    vs  SRH    M. Chinnaswamy Stadium                   04/09 07:30 PM
+18  DC     vs  MI     Arun Jaitley Stadium                     05/09 07:30 PM       
+19  CSK    vs  RR     M. A. Chidambaram Stadium                06/09 07:30 PM
+20  PBKS   vs  LSG    PCA IS Bindra Stadium                    07/09 07:30 PM       
+21  SRH    vs  GT     Rajiv Gandhi International               08/09 07:30 PM       
+22  KKR    vs  DC     Eden Gardens                             09/09 03:30 PM
+23  RR     vs  RCB    Sawai Mansingh Stadium                   09/09 07:30 PM       
+24  MI     vs  PBKS   Wankhede Stadium                         10/09 03:30 PM
+25  LSG    vs  CSK    Atal Bihari Vajpayee Ekana               10/09 07:30 PM       
+26  GT     vs  DC     Narendra Modi Stadium                    11/09 07:30 PM       
+27  SRH    vs  RR     Rajiv Gandhi International               12/09 07:30 PM
+28  PBKS   vs  KKR    PCA IS Bindra Stadium                    13/09 07:30 PM       
+29  RCB    vs  LSG    M. Chinnaswamy Stadium                   14/09 07:30 PM
+30  MI     vs  CSK    Wankhede Stadium                         15/09 07:30 PM       
+31  RR     vs  GT     Sawai Mansingh Stadium                   16/09 03:30 PM
+32  DC     vs  PBKS   Arun Jaitley Stadium                     16/09 07:30 PM
+33  LSG    vs  SRH    Atal Bihari Vajpayee Ekana               17/09 03:30 PM       
+34  KKR    vs  CSK    Eden Gardens                             17/09 07:30 PM       
+35  MI     vs  RCB    Wankhede Stadium                         18/09 07:30 PM
+36  GT     vs  PBKS   Narendra Modi Stadium                    19/09 07:30 PM       
+37  RR     vs  LSG    Sawai Mansingh Stadium                   20/09 07:30 PM
+38  CSK    vs  DC     M. A. Chidambaram Stadium                21/09 07:30 PM       
+39  SRH    vs  MI     Rajiv Gandhi International               22/09 07:30 PM
+40  KKR    vs  RCB    Eden Gardens                             23/09 03:30 PM       
+41  LSG    vs  GT     Atal Bihari Vajpayee Ekana               23/09 07:30 PM       
+42  PBKS   vs  CSK    PCA IS Bindra Stadium                    24/09 03:30 PM       
+43  MI     vs  RR     Wankhede Stadium                         24/09 07:30 PM
+44  DC     vs  RCB    Arun Jaitley Stadium                     25/09 07:30 PM       
+45  KKR    vs  SRH    Eden Gardens                             26/09 07:30 PM
+46  DC     vs  CSK    Arun Jaitley Stadium                     27/09 07:30 PM       
+47  RR     vs  MI     Sawai Mansingh Stadium                   28/09 07:30 PM
+48  PBKS   vs  RCB    PCA IS Bindra Stadium                    29/09 07:30 PM       
+49  LSG    vs  KKR    Atal Bihari Vajpayee Ekana               30/09 03:30 PM       
+50  GT     vs  SRH    Narendra Modi Stadium                    30/09 07:30 PM
+51  RR     vs  CSK    Sawai Mansingh Stadium                   01/10 03:30 PM       
+52  PBKS   vs  MI     PCA IS Bindra Stadium                    01/10 07:30 PM       
+53  LSG    vs  RCB    Atal Bihari Vajpayee Ekana               02/10 07:30 PM
+54  KKR    vs  GT     Eden Gardens                             03/10 07:30 PM       
+55  DC     vs  SRH    Arun Jaitley Stadium                     04/10 07:30 PM
+56  CSK    vs  PBKS   M. A. Chidambaram Stadium                05/10 07:30 PM       
+57  MI     vs  LSG    Wankhede Stadium                         06/10 07:30 PM
+58  RCB    vs  GT     M. Chinnaswamy Stadium                   07/10 03:30 PM       
+59  DC     vs  KKR    Arun Jaitley Stadium                     07/10 07:30 PM
+60  SRH    vs  RR     Rajiv Gandhi International               08/10 03:30 PM       
+61  CSK    vs  LSG    M. A. Chidambaram Stadium                08/10 07:30 PM       
+62  GT     vs  MI     Narendra Modi Stadium                    09/10 07:30 PM
+63  RCB    vs  DC     M. Chinnaswamy Stadium                   10/10 07:30 PM
+64  KKR    vs  RR     Eden Gardens                             11/10 07:30 PM       
+65  SRH    vs  PBKS   Rajiv Gandhi International               12/10 07:30 PM
+66  MI     vs  DC     Wankhede Stadium                         13/10 07:30 PM       
+67  RCB    vs  RR     M. Chinnaswamy Stadium                   14/10 03:30 PM       
+68  PBKS   vs  KKR    PCA IS Bindra Stadium                    14/10 07:30 PM
+69  SRH    vs  LSG    Rajiv Gandhi International               15/10 03:30 PM       
+70  GT     vs  CSK    Narendra Modi Stadium                    15/10 07:30 PM

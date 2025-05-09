@@ -1,0 +1,71 @@
+team1,team2,venue,day,month,time
+CSK,GT,M.A.Chidhambaram Stadium,23,10,07:30 PM
+LSG,MI,Atal Bihari Vajpayee Stadium,24,10,07:30 PM
+RCB,PBKS,M.Chinnaswamy Stadium,25,10,03:30 PM
+RR,KKR,Sawai Mansingh Stadium,25,10,07:30 PM
+SRH,DC,Rajiv Gandhi Stadium,26,10,03:30 PM
+GT,MI,Narendra Modi Stadium,26,10,07:30 PM
+CSK,RCB,M.A.Chidhambaram Stadium,27,10,07:30 PM
+KKR,LSG,Eden Gardens,28,10,07:30 PM
+PBKS,SRH,PCA IS Bindra Stadium,29,10,07:30 PM
+DC,RR,Arun Jaitley Stadium,30,10,07:30 PM
+RCB,GT,M.Chinnaswamy Stadium,31,10,07:30 PM
+MI,KKR,Wankhede Stadium,1,11,03:30 PM
+SRH,CSK,Rajiv Gandhi Stadium,1,11,07:30 PM
+LSG,DC,Atal Bihari Vajpayee Stadium,2,11,03:30 PM
+RR,PBKS,Sawai Mansingh Stadium,2,11,07:30 PM
+GT,KKR,Narendra Modi Stadium,3,11,07:30 PM
+RCB,SRH,M.Chinnaswamy Stadium,4,11,07:30 PM
+DC,MI,Arun Jaitley Stadium,5,11,07:30 PM
+CSK,RR,M.A.Chidhambaram Stadium,6,11,07:30 PM
+PBKS,LSG,PCA IS Bindra Stadium,7,11,07:30 PM
+SRH,GT,Rajiv Gandhi Stadium,8,11,03:30 PM
+KKR,DC,Eden Gardens,8,11,07:30 PM
+RR,RCB,Sawai Mansingh Stadium,9,11,03:30 PM
+MI,PBKS,Wankhede Stadium,9,11,07:30 PM
+LSG,CSK,Atal Bihari Vajpayee Stadium,10,11,07:30 PM
+GT,DC,Narendra Modi Stadium,11,11,07:30 PM
+SRH,RR,Rajiv Gandhi Stadium,12,11,07:30 PM
+PBKS,KKR,PCA IS Bindra Stadium,13,11,07:30 PM
+RCB,LSG,M.Chinnaswamy Stadium,14,11,07:30 PM
+MI,CSK,Wankhede Stadium,15,11,03:30 PM
+RR,GT,Sawai Mansingh Stadium,15,11,07:30 PM
+DC,PBKS,Arun Jaitley Stadium,16,11,03:30 PM
+LSG,SRH,Atal Bihari Vajpayee Stadium,16,11,07:30 PM
+KKR,CSK,Eden Gardens,17,11,07:30 PM
+MI,RCB,Wankhede Stadium,18,11,07:30 PM
+GT,PBKS,Narendra Modi Stadium,19,11,07:30 PM
+RR,LSG,Sawai Mansingh Stadium,20,11,07:30 PM
+CSK,DC,M.A.Chidhambaram Stadium,21,11,07:30 PM
+SRH,MI,Rajiv Gandhi Stadium,23,11,03:30 PM
+KKR,RCB,Eden Gardens,23,11,07:30 PM
+LSG,GT,Atal Bihari Vajpayee Stadium,24,11,07:30 PM
+PBKS,CSK,PCA IS Bindra Stadium,25,11,07:30 PM
+MI,RR,Wankhede Stadium,26,11,07:30 PM
+DC,RCB,Arun Jaitley Stadium,27,11,07:30 PM
+KKR,SRH,Eden Gardens,28,11,07:30 PM
+DC,CSK,Arun Jaitley Stadium,29,11,03:30 PM
+RR,MI,Sawai Mansingh Stadium,29,11,07:30 PM
+PBKS,RCB,PCA IS Bindra Stadium,30,11,03:30 PM
+LSG,KKR,Atal Bihari Vajpayee Stadium,30,11,07:30 PM
+GT,SRH,Narendra Modi Stadium,1,12,07:30 PM
+RR,CSK,Sawai Mansingh Stadium,2,12,07:30 PM
+PBKS,MI,PCA IS Bindra Stadium,3,12,07:30 PM
+LSG,RCB,Atal Bihari Vajpayee Stadium,4,12,07:30 PM
+KKR,GT,Eden Gardens,5,12,07:30 PM
+DC,SRH,Arun Jaitley Stadium,6,12,03:30 PM
+CSK,PBKS,M.A.Chidhambaram Stadium,6,12,07:30 PM
+MI,LSG,Wankhede Stadium,7,12,03:30 PM
+RCB,GT,M.Chinnaswamy Stadium,7,12,07:30 PM
+DC,KKR,Arun Jaitley Stadium,8,12,07:30 PM
+SRH,RR,Rajiv Gandhi Stadium,9,12,07:30 PM
+CSK,LSG,M.A.Chidhambaram Stadium,10,12,07:30 PM
+GT,MI,Narendra Modi Stadium,11,12,07:30 PM
+RCB,DC,M.Chinnaswamy Stadium,12,12,07:30 PM
+KKR,RR,Eden Gardens,13,12,03:30 PM
+SRH,PBKS,Rajiv Gandhi Stadium,13,12,07:30 PM
+MI,DC,Wankhede Stadium,14,12,03:30 PM
+RCB,RR,M.Chinnaswamy Stadium,14,12,07:30 PM
+PBKS,KKR,PCA IS Bindra Stadium,15,12,07:30 PM
+SRH,LSG,Rajiv Gandhi Stadium,16,12,07:30 PM
+GT,CSK,Narendra Modi Stadium,17,12,07:30 PM
